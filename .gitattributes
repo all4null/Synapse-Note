@@ -1,3 +1,8 @@
+* linguist-vendored
+*.py linguist-vendored=false
+*.jsx linguist-vendored=false
+*.tsx linguist-vendored=false
+*.py linguist-vendored=fals
 Synapse-backend/** linguist-detectable=true
 Synapse-frontend/** linguist-detectable=true
 Synapse-stt/** linguist-detectable=true
