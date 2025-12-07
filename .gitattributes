@@ -1,4 +1,4 @@
-* linguist-vendored=true
+tools/** linguist-vendored=true
 
 *.py linguist-vendored=false
 *.jsx linguist-vendored=false
