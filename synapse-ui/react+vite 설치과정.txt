@@ -1,0 +1,11 @@
+npm create vite@latest synapse_note_front_react 
+React선택 JS선택
+
+cd synapse_note_front_react
+npm install <-필요 패키지설치 
+npm run dev <- 실행
+
+npm install axios react-router-dom lucide-react
+axios: 파이썬 서버랑 통신할 때 씁니다. (JS의 fetch보다 훨씬 편합니다.)
+react-router-dom: 페이지 이동(채팅방 ↔ 폴더리스트)을 위해 씁니다.
+lucide-react: 예쁜 아이콘(메뉴 버튼, 집 모양 등)을 무료로 쓸 수 있습니다.
