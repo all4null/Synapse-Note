@@ -1,4 +1,8 @@
-#tools/** linguist-vendored=true
+tools/** linguist-vendored=true
+
+package.json linguist-vendored
+package-lock.json linguist-vendored
+yarn.lock linguist-vendored
 
 #*.py linguist-vendored=false
 #*.jsx linguist-vendored=false
