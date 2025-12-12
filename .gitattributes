@@ -1,10 +1,10 @@
-tools/** linguist-vendored=true
+#tools/** linguist-vendored=true
 
-*.py linguist-vendored=false
-*.jsx linguist-vendored=false
-*.tsx linguist-vendored=false
-*.py linguist-vendored=false
+#*.py linguist-vendored=false
+#*.jsx linguist-vendored=false
+#*.tsx linguist-vendored=false
+#*.py linguist-vendored=false
 
-Synapse-backend/** linguist-detectable=true
-Synapse-frontend/** linguist-detectable=true
-Synapse-stt/** linguist-detectable=true
+#Synapse-backend/** linguist-detectable=true
+#Synapse-frontend/** linguist-detectable=true
+#Synapse-stt/** linguist-detectable=true
